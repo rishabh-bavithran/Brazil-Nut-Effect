@@ -32,4 +32,4 @@ To run the simulation and estimate the dimensions of an alien object, follow the
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Brazilian-Nut-Effect-Simulation.git
+   git clone https://github.com/Kelvin4915/Brazilian-Nut-Effect-Simulation.git
