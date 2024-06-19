@@ -4,6 +4,8 @@
 
 This project simulates the Brazilian Nut Effect, a phenomenon where larger particles are propelled upwards against the force of gravity, while smaller particles settle down in the presence of a constant random force. By leveraging this effect, we aim to determine the dimensions of an alien object introduced into a system of robot micro swarms.
 
+![image](https://github.com/Kelvin4915/Brazil_nut_effect_simulation/assets/145865695/29792d67-a40c-4e4f-810d-5cef571e6e44)
+
 ## Simulation Details
 
 In our simulation, we utilized the Brazilian Nut Effect with a swarm of 200 micro robots. The main premise is that particles of varying sizes will settle at different levels, causing particles of similar sizes to aggregate. By analyzing the positions and radii of robots in the vicinity of the alien object, we can infer its dimensions.
