@@ -28,11 +28,3 @@ In our simulation, we utilized the Brazilian Nut Effect with a swarm of 200 micr
 3. **Dimension Estimation:**
    - By referencing the radius of the robots near the alien object, we calculated its approximate dimensions.
 ![swarm_crop](https://github.com/Kelvin4915/Brazil_nut_effect_simulation/assets/145865695/ba0aa310-b7ff-4418-8e26-04ca24d569fc)
-
-## Usage
-
-To run the simulation and estimate the dimensions of an alien object, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Kelvin4915/Brazil_nut_effect_simulation
